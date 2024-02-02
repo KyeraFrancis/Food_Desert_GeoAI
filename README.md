@@ -16,6 +16,8 @@ The Food Desert GeoAI Project is an innovative approach to mapping and analyzing
 ## Dataset
 The base dataset for this project is aggregated at the state level, sourced from the United States Department of Agriculture (USDA). This dataset provides a solid foundation for initial analysis and model training. As the project progresses, additional data from states with the highest and lowest prevalence of food deserts may be included for comparative analysis.
 
+[Link to Dataset](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)
+
 ## Repository Structure
 - `data/`: Contains the datasets used in the project.
 - `src/`: Source code for the project.
