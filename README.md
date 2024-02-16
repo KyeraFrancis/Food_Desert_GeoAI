@@ -21,7 +21,7 @@ Due to size of Dataset, it is not included in the repository.
 ## Repository Structure
 - `data/`: Contains the datasets used in the project.
 - `src/`: Source code for the project.
-  - `logreg,py`: Logistic regression model.
+  - `logreg.py`: Logistic regression model.
   - `geopd.py`: Geospatial data analysis and mapping.
   - `RFC.py`: Random Forest Classifier model.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and initial testing.
