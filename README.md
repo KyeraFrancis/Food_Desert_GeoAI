@@ -25,7 +25,7 @@ Due to size of Dataset, it is not included in the repository.
   - `geopd.py`: Geospatial data analysis and mapping.
   - `RFC.py`: Random Forest Classifier model.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and initial testing.
-  - `Main Notebook`: Jupyter Notebook with EDA, Visualization and Modeling.
+  - `EDA`: Main Jupyter Notebook with EDA, Visualization and Modeling.
   - `Modeling`: Jupyter Notebook with Modeling from the src folder.
   - `Visualization`: Jupyter Notebook with Data Analysis/Visualization.
 - `docs/`: Additional documentation, reports, Data Dictionary.
